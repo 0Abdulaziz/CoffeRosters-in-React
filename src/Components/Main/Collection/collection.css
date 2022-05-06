@@ -1,0 +1,51 @@
+.collection{
+   padding-top: 124px;
+   margin-bottom: 188px;
+   background-image: url(../../../Assets/Images/our-collection.svg);
+   background-repeat: no-repeat;
+   background-size: 1200px 196px;
+   background-position: calc(50%) calc(100% -  337px);
+ 
+ }
+ 
+ 
+ .collection__list{
+   display: flex;
+   justify-content: space-evenly;
+ }
+ 
+ .collection__item{
+   width: 255px;
+   
+ }
+ 
+ .collection__img{
+   width: 235px;
+   height: 200px;
+   margin-bottom: 71px;
+  
+ }
+ 
+ .collection__title{
+   font-weight: 900;
+   font-size: 24px;
+   line-height: 32px;
+   text-align: center;
+   margin-bottom: 24px;
+ }
+ 
+ 
+ 
+ .collection__link{
+   color: #333D4B;
+   text-decoration: none;
+ }
+ 
+ .collection__text{
+   font-family: "Barlow";
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 26px;
+   text-align: center;
+   color: #333D4B;
+ }

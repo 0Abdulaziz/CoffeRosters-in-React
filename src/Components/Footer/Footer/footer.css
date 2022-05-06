@@ -1,0 +1,47 @@
+footer{
+   margin-bottom: 88px;
+ }
+ 
+ .footer{
+   background-color:#2C343E;
+   display: flex;
+   align-items: center;
+   padding:47px 85px ;
+ }
+ 
+ .footer__left{
+   display: flex;
+   align-items: center;
+   margin-right: auto;
+ 
+ }
+ 
+ .footer__logo{
+   margin-right: 103px;
+ }
+ 
+ .footer__item--left{
+   margin-left: 0;
+ }
+ 
+ .footer__link{
+   text-decoration: none;
+   color: #83888F;
+ }
+ 
+ .footer__link:hover{
+ color:#FEFCF7;
+ }
+ 
+ .footer__social{
+   display: flex;
+ }
+ 
+ .footer__roster{
+   margin-left: 24px;
+ }
+ 
+ .footer__rosret--left{
+   margin-left: 0;
+ }
+ 

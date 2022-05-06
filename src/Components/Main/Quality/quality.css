@@ -1,0 +1,93 @@
+.quality{
+   padding-bottom: 200px;
+   background-image: url(../../../Assets/Images/Bitmap2.png);
+   background-repeat: no-repeat;
+   background-size: 1280px 577px;
+   background-position: calc(50%) calc(50% - 169px);
+   }
+   
+   .quality__box{
+     padding-top: 112px;
+     
+   }
+   
+   .quality__inner{
+     Width:540px;
+     text-align: center;
+     margin: 0 auto;
+     
+    
+   }
+   
+   .quality__title{
+     font-family: "Fraunces";
+     font-weight: 900;
+     color: #FEFCF7;
+     font-size: 40px;
+     margin-bottom: 32px;
+     
+   }
+   
+   .quality__text{
+     font-family: "Barlow";
+    font-weight: 400;
+    color: #FEFCF7;
+    Opacity: 80%;
+     font-size: 16px;
+     line-height: 26px;
+     
+    
+   }
+   
+   .quality__list{
+     display: flex;
+     justify-content: space-evenly;
+     margin-top: 86px;
+    
+    
+   }
+   
+   .quality__item{
+     width: 350px ; 
+     height:382px ;
+     background-color:#0E8784;
+     padding: 72px 48px 48px;
+     text-align: center;
+     border-radius: 8px;
+     
+     
+   
+    
+   }
+   
+   .quality__img{
+     margin-bottom: 56px;
+   }
+   
+   .quality__img--truck{
+     width: 72px;
+     height: 52px;
+     margin-bottom: 80px;
+   }
+   
+   .quality__reason{
+     font-family:"Fraunces";
+     font-weight: 900;
+     font-size: 24px;
+     margin-bottom: 24px;
+   
+   }
+   
+   .quality__link{
+     text-decoration: none;
+     color: #FEFCF7;
+   }
+   
+   .quality__article{
+     font-family: "Barlow";
+   font-style: 400;
+   font-size: 16px;
+   line-height: 26px;
+   color: #FEFCF7;
+   }
+   
